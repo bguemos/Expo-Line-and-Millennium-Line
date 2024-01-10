@@ -16,7 +16,7 @@ export default function Home() {
        className="mr-4"
       
       />
-    <h1 className="text-5xl font-bold">Expo and Millenium Line Skytrain Stations</h1>
+    <h1 className="text-7xl font-bold">Expo and Millenium Line Skytrain Stations</h1>
   
   </div>
    <DynamicMap/>
